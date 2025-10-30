@@ -72,4 +72,12 @@ Obs: É obrigatório o uso de loops aninhados na movimentação do bispo e funç
 
 Ao concluir este desafio, você terá um conhecimento mais profundo de estruturas complexas e elaboradas, amplamente utilizadas no mercado de trabalho. Boa sorte e boa programação!
 
-Equipe de Ensino - MateCheck
+Equipe de Ensino - MateCheck.
+
+COMO TESTAR O CODIGO:
+
+Menu Principal: Escolha o modo (1-3) ou saia (0).
+Dentro de Cada Modo:
+Novato: Submenu para escolher Torre, Bispo ou Rainha, depois posicionar e ver movimentos.
+Aventureiro: Direto para Cavalo (já que é a única peça), posicionar e ver movimentos.
+Mestre: Direto para Rainha Avançada, posicionar e ver movimentos.
